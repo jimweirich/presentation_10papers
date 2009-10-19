@@ -1,0 +1,21 @@
+ABSTRACT
+--------
+
+Michael Feather wrote a blog post called "10 Papers Every Programmer Should Read (at least twice)".  It the post he writes:
+
+"It’s hard to find deeply technical books and articles which stand the test of time in software: they are all Latin within 20 years. To me, these are classic papers which contain deep 'things you oughta know' about code -- the material you work with."
+
+This talk is a series of 10 five minute lightning talks, each talk covering one of the 10 important papers Michael recommends for all programmers.
+
+The papers are:
+
+* "On the Criteria to Be Used in Decomposing Systems into Modules" -- D. L. Parnas
+* "Can Programming Be Liberated from the von Neumann Style?" -- John Backus
+* "Programming as an Experience" -- Randall B. Smith & David Ungar
+* "A Laboratory For Teaching Object-Oriented Thinking" -- Kent Beck & Ward Cunningham
+* "The Next 700 Programming Languages" -- P. J. Landin
+* "Lisp: Good News, Bad News, How to Win Big" -- Richard P. Gabriel
+* "Arguments and Results" -- James Noble
+* "An Experimental Evaluation of the Assumption of Independence in Multi-Version Programming" -- John C. Knight & Nancy G. Leveson
+* "A Note on Distributed Computing" -- Jim Waldo, Geoff Wyant, Ann Wollrath & Sam Kendall
+* "Reflections on Trusing Trust" -- Ken Thompson
